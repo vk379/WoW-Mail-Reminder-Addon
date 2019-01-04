@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: MailReminder
+## Author: Vishnu Komanduri 
+## Version: 2.0
+
+Mail.lua
